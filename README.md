@@ -19,14 +19,16 @@
  `<p>段落</p>`
 
 # コード
-    半角スペース4個を行頭に挿入
-    半角スペース4個を行頭に挿入
-    半角スペース4個を行頭に挿入
+    //半角スペース4個を行頭に挿入
+    int main(void){
+        return 0;
+    }
 
-```
-半角スペースなし
-半角スペースなし
-半角スペースなし
+```c
+//半角スペースなし
+int main(void){
+    return 0;
+}
 ```
 
 # リスト
@@ -40,8 +42,10 @@
 [Google](https://www.google.co.jp/)  
 ![価格.com](https://img1.kakaku.k-img.com/images/logo.png)  
 脚注[^1]を記載することもできる
+GitHubMarkdown[^2]
 
 [^1]:https://google.com
+[^2]:https://help.github.com/articles/markgown-basics/
 
 # 引用
 > 引用文
