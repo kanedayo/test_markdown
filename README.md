@@ -37,9 +37,11 @@
     - 半角スペース4個を行頭に挿入
 
 # リンク
-[Google](https://www.google.co.jp/)
-![Googleロゴ](https://www.google.co.jp/images/srpr/logollw.png)
+[Google](https://www.google.co.jp/)  
+![価格.com](https://img1.kakaku.k-img.com/images/logo.png)  
+脚注[^1]を記載することもできる
+
+[^1]:https://google.com
 
 # 引用
 > 引用文
-
